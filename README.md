@@ -12,8 +12,8 @@ Docker
 
 ### Passo 1: Construir e Rodar os Contêineres
 
-No terminal, navegue até o diretório onde estão seus arquivos Dockerfile e docker-compose.yml, e execute o seguinte comando para construir e iniciar os contêineres:
 
+Rodar o comando: 
 docker-compose up --build
 
 Contatos: viniciusvale@usp.br  
