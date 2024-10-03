@@ -1,7 +1,7 @@
 ## Teste Sigma - React
 
 Obs: repositório back:
-https://github.com/XVINILX/react-product-creation
+https://github.com/XVINILX/django-product-creation
 
 Tecnologias utilizadas por todo o projeto:
 
